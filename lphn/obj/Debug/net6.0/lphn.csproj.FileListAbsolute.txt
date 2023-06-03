@@ -1,0 +1,15 @@
+C:\Users\User\семинар с#\lphn\bin\Debug\net6.0\lphn.exe
+C:\Users\User\семинар с#\lphn\bin\Debug\net6.0\lphn.deps.json
+C:\Users\User\семинар с#\lphn\bin\Debug\net6.0\lphn.runtimeconfig.json
+C:\Users\User\семинар с#\lphn\bin\Debug\net6.0\lphn.dll
+C:\Users\User\семинар с#\lphn\bin\Debug\net6.0\lphn.pdb
+C:\Users\User\семинар с#\lphn\obj\Debug\net6.0\lphn.csproj.AssemblyReference.cache
+C:\Users\User\семинар с#\lphn\obj\Debug\net6.0\lphn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\семинар с#\lphn\obj\Debug\net6.0\lphn.AssemblyInfoInputs.cache
+C:\Users\User\семинар с#\lphn\obj\Debug\net6.0\lphn.AssemblyInfo.cs
+C:\Users\User\семинар с#\lphn\obj\Debug\net6.0\lphn.csproj.CoreCompileInputs.cache
+C:\Users\User\семинар с#\lphn\obj\Debug\net6.0\lphn.dll
+C:\Users\User\семинар с#\lphn\obj\Debug\net6.0\refint\lphn.dll
+C:\Users\User\семинар с#\lphn\obj\Debug\net6.0\lphn.pdb
+C:\Users\User\семинар с#\lphn\obj\Debug\net6.0\lphn.genruntimeconfig.cache
+C:\Users\User\семинар с#\lphn\obj\Debug\net6.0\ref\lphn.dll
